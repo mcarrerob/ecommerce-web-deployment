@@ -103,6 +103,7 @@
             </div>
             <div class="row it_works">
               <?php
+                        // Adapted for Ubuntu/LAMP by Maria Carrero - Original project: kodekloudhub/learning-app-ecommerce
 
                         // $link = mysqli_connect('172.20.1.101', 'ecomuser', 'ecompassword', 'ecomdb');
                         // Fetch database connection details directly from environment variables
